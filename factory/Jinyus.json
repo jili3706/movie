@@ -1,0 +1,9 @@
+{
+	"name": "Jinyus",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e34982f-26c4-487a-90fc-cf29f256f5f8",
+		"tenantId": "293834fc-99c9-4626-a31f-8a241718efba"
+	}
+}
